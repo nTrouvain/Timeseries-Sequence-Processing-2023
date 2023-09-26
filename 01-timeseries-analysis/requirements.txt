@@ -1,0 +1,5 @@
+statsmodels==0.12.1
+scipy
+numpy
+pandas
+matplotlib
